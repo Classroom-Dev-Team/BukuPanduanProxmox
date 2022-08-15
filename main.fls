@@ -466,6 +466,18 @@ INPUT .\images\\balena.png
 INPUT .\images\\balena.png
 INPUT .\images\\balena.png
 INPUT .\images\\balena.png
+INPUT .\images\\firewall.png
+INPUT images\\firewall.png
+INPUT .\images\\firewall.png
+INPUT .\images\\firewall.png
+INPUT .\images\\firewall.png
+INPUT .\images\\firewall.png
+INPUT .\images\\proxmox 1.png
+INPUT images\\proxmox 1.png
+INPUT .\images\\proxmox 1.png
+INPUT .\images\\proxmox 1.png
+INPUT .\images\\proxmox 1.png
+INPUT .\images\\proxmox 1.png
 INPUT main.aux
 INPUT .\main.out
 INPUT .\main.out

@@ -56,7 +56,24 @@
   seteh itu pada Select target pilih USB flashdisk, lalu Flash!
   \begin{figure}[h!]
     \centering
-    \includegraphics[width=0.7\linewidth]{balena.png}
+    \includegraphics[width=0.75\linewidth]{balena.png}
     \caption{aplikasi balena}
+  \end{figure}
+  \\ Jika terdapat error pada proses bootable maka matikan terlebih dahulu windows firewall.
+  \begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.7\linewidth]{firewall.png}
+    \caption{firewall}
+  \end{figure}
+  \\ Setelah proses bootable, pasangkan USB flashdisk pada PC yang akan diinstall proxmox. Ubahlah proses Boot pada PC dengan memasuki BIOS atau UEFI,
+  lalu masuk ke menu Boot atau System Configuration dan pilih Boot Order/Hard drive BBS Priorities. Pastikan Boot USB berada dipaling atas
+  \newpage
+
+  \subsection{Instalasi Proxmox}
+  Setelah memasuki Boot pada USB flashdisk maka akan muncul tampilan seperti berikut.
+  \begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.7\linewidth]{proxmox 1.png}
+    \caption{firewall}
   \end{figure}
 \end{document}
