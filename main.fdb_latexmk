@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1660613328 "d:/Thoriq/Dokumentasi/BukuPanduanServer-Proxmox/main.tex" "main.pdf" "main" 1660613330
-  "C:/Users/Command" 1658971593 770 d21a0c83bcec4f74aea7c121a55c5b74 ""
+["pdflatex"] 1660786511 "d:/Thoriq/Dokumentasi/BukuPanduanServer-Proxmox/main.tex" "main.pdf" "main" 1660786513
+  "C:/Users/Command" 1660786272 770 d21a0c83bcec4f74aea7c121a55c5b74 ""
   "C:/Users/Command Center 2/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1659944226 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Command Center 2/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1659944151 10335490 e5a474e95ca4467b9b5cb90fd2809ca5 ""
   "C:/Users/Command Center 2/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -63,17 +63,19 @@
   "C:/Users/Command Center 2/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/Command Center 2/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/Command Center 2/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "d:/Thoriq/Dokumentasi/BukuPanduanServer-Proxmox/main.tex" 1660613327 3090 1f2de94c4cae8a2a6a3446a3843713c6 ""
+  "d:/Thoriq/Dokumentasi/BukuPanduanServer-Proxmox/main.tex" 1660786510 3474 84da3269d70b963b2651f28b9f6b62e9 ""
   "images//balena web.png" 1660182544 124730 76c735788fbbdcffc484171dcb5b79e2 ""
   "images//balena.png" 1660034864 16509 59cd0d56c3a3e1750e1b39d9cb78fd3c ""
   "images//firewall.png" 1660182565 103786 7610980bb871f69ae1441a6f39d621a9 ""
   "images//proxmox 1.png" 1660182576 73058 16cce41586a042f0b557f08c4f5ca8d6 ""
   "images//proxmox 2.png" 1660182589 131360 78dfec5a29337820a0c8113c7ea46953 ""
+  "images//proxmox 3.png" 1660182601 193243 cd01ebdef8390616ea3a6d09f0b2fec0 ""
+  "images//proxmox 4.png" 1660182617 174822 39ee32d3419313dbaf3f437751fe409c ""
   "images//proxmox download.png" 1660033511 63240 360404885bcd91d18df1c06f9cd93538 ""
   "images//proxmox web.png" 1660033499 311750 9c00e54c20d9229e4e4c9aa0c7c4c4c0 ""
-  "main.aux" 1660613330 1882 f8081ecbbf128c7b8cc0443d8785e673 "pdflatex"
-  "main.out" 1660613330 531 8848c8028eaf09c267eee21d92dec2d2 "pdflatex"
-  "main.tex" 1660613327 3090 1f2de94c4cae8a2a6a3446a3843713c6 ""
+  "main.aux" 1660786513 2124 bb5efbe09d928cf43a9ee18d6b61a9ae "pdflatex"
+  "main.out" 1660786513 531 8848c8028eaf09c267eee21d92dec2d2 "pdflatex"
+  "main.tex" 1660786510 3474 84da3269d70b963b2651f28b9f6b62e9 ""
   (generated)
   "main.aux"
   "main.log"
