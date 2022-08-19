@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.8)  18 AUG 2022 08:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.8)  19 AUG 2022 10:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -265,22 +265,33 @@ File: ./images//proxmox 4.png Graphic file (type png)
 <use ./images//proxmox 4.png>
 Package pdftex.def Info: ./images//proxmox 4.png  used on input line 98.
 (pdftex.def)             Requested size: 241.49895pt x 198.1897pt.
- [6 <./images//proxmox 4.png>] (main.aux)
+<./images//proxmox 5.png, id=83, 772.38562pt x 633.86812pt>
+File: ./images//proxmox 5.png Graphic file (type png)
+<use ./images//proxmox 5.png>
+Package pdftex.def Info: ./images//proxmox 5.png  used on input line 104.
+(pdftex.def)             Requested size: 241.49895pt x 198.1897pt.
+ [6 <./images//proxmox 4.png> <./images//proxmox 5.png>]
+<./images//proxmox 6.png, id=95, 772.38562pt x 633.86812pt>
+File: ./images//proxmox 6.png Graphic file (type png)
+<use ./images//proxmox 6.png>
+Package pdftex.def Info: ./images//proxmox 6.png  used on input line 111.
+(pdftex.def)             Requested size: 241.49895pt x 198.1897pt.
+ [7 <./images//proxmox 6.png>] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 8848C8028EAF09C267EEE21D92DEC2D2;531.
  ) 
 Here is how much of TeX's memory you used:
- 8224 strings out of 478337
- 133983 string characters out of 2831439
+ 8247 strings out of 478337
+ 134463 string characters out of 2831439
  426871 words of memory out of 3000000
- 26546 multiletter control sequences out of 15000+600000
+ 26562 multiletter control sequences out of 15000+600000
  474281 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,7n,77p,306b,514s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/Command Center 2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Command Center 2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Command Center 2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Command Center 2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Command Center 2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Command Center 2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (7 pages, 1087006 bytes).
+Output written on main.pdf (8 pages, 1356492 bytes).
 PDF statistics:
- 125 PDF objects out of 1000 (max. 8388607)
- 25 named destinations out of 1000 (max. 500000)
- 78 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 137 PDF objects out of 1000 (max. 8388607)
+ 30 named destinations out of 1000 (max. 500000)
+ 88 words of extra memory for PDF output out of 10000 (max. 10000000)
 
