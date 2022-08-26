@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.8)  25 AUG 2022 08:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.8)  26 AUG 2022 14:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -331,22 +331,33 @@ File: ./images//upload iso 2.png Graphic file (type png)
 <use ./images//upload iso 2.png>
 Package pdftex.def Info: ./images//upload iso 2.png  used on input line 187.
 (pdftex.def)             Requested size: 241.49895pt x 131.40318pt.
- [12 <./images//upload iso 2.png>] (main.aux)
+<./images//upload iso 3.png, id=164, 305.64188pt x 203.25937pt>
+File: ./images//upload iso 3.png Graphic file (type png)
+<use ./images//upload iso 3.png>
+Package pdftex.def Info: ./images//upload iso 3.png  used on input line 194.
+(pdftex.def)             Requested size: 241.49895pt x 160.60104pt.
+ [12 <./images//upload iso 2.png> <./images//upload iso 3.png>]
+<./images//upload iso 4.png, id=174, 601.4972pt x 380.17032pt>
+File: ./images//upload iso 4.png Graphic file (type png)
+<use ./images//upload iso 4.png>
+Package pdftex.def Info: ./images//upload iso 4.png  used on input line 202.
+(pdftex.def)             Requested size: 241.49895pt x 152.63972pt.
+ [13 <./images//upload iso 4.png>] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 1BEC7812D753DFA79A0CAD776373B5F4;890.
  ) 
 Here is how much of TeX's memory you used:
- 8361 strings out of 478337
- 137035 string characters out of 2831439
+ 8382 strings out of 478337
+ 137558 string characters out of 2831439
  426876 words of memory out of 3000000
- 26645 multiletter control sequences out of 15000+600000
+ 26661 multiletter control sequences out of 15000+600000
  474281 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,7n,77p,306b,514s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/Command Center 2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Command Center 2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Command Center 2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Command Center 2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Command Center 2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Command Center 2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (13 pages, 2094796 bytes).
+Output written on main.pdf (14 pages, 2114509 bytes).
 PDF statistics:
- 211 PDF objects out of 1000 (max. 8388607)
- 51 named destinations out of 1000 (max. 500000)
- 162 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 221 PDF objects out of 1000 (max. 8388607)
+ 54 named destinations out of 1000 (max. 500000)
+ 172 words of extra memory for PDF output out of 10000 (max. 10000000)
 
