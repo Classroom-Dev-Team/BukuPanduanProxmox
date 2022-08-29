@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.8)  26 AUG 2022 14:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.8)  29 AUG 2022 08:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -211,28 +211,28 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 29.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 29.
-<./images//proxmox web.png, id=41, 1927.2pt x 1048.66782pt>
+<./images//proxmox web.png, id=45, 1927.2pt x 1048.66782pt>
 File: ./images//proxmox web.png Graphic file (type png)
 <use ./images//proxmox web.png>
 Package pdftex.def Info: ./images//proxmox web.png  used on input line 33.
 (pdftex.def)             Requested size: 345.0pt x 187.72797pt.
-<./images//proxmox download.png, id=43, 630.85687pt x 243.15843pt>
+<./images//proxmox download.png, id=47, 630.85687pt x 243.15843pt>
 File: ./images//proxmox download.png Graphic file (type png)
 <use ./images//proxmox download.png>
 Package pdftex.def Info: ./images//proxmox download.png  used on input line 39.
 (pdftex.def)             Requested size: 345.0pt x 132.97693pt.
  [1 <./images//proxmox web.png> <./images//proxmox download.png>]
-<./images//balena web.png, id=56, 1927.2pt x 1048.66782pt>
+<./images//balena web.png, id=60, 1927.2pt x 1048.66782pt>
 File: ./images//balena web.png Graphic file (type png)
 <use ./images//balena web.png>
 Package pdftex.def Info: ./images//balena web.png  used on input line 49.
 (pdftex.def)             Requested size: 310.4979pt x 168.94237pt.
-<./images//balena.png, id=57, 603.75563pt x 381.67593pt>
+<./images//balena.png, id=61, 603.75563pt x 381.67593pt>
 File: ./images//balena.png Graphic file (type png)
 <use ./images//balena.png>
 Package pdftex.def Info: ./images//balena.png  used on input line 59.
 (pdftex.def)             Requested size: 258.75pt x 163.57pt.
-<./images//firewall.png, id=58, 1927.2pt x 1048.66782pt>
+<./images//firewall.png, id=62, 1927.2pt x 1048.66782pt>
 File: ./images//firewall.png Graphic file (type png)
 <use ./images//firewall.png>
 Package pdftex.def Info: ./images//firewall.png  used on input line 65.
@@ -243,121 +243,132 @@ Overfull \hbox (2.80624pt too wide) in paragraph at lines 45--70
  []
 
 [2 <./images//balena web.png> <./images//balena.png>] [3 <./images//firewall.png>]
-<./images//proxmox 1.png, id=74, 772.38562pt x 633.86812pt>
+<./images//proxmox 1.png, id=78, 772.38562pt x 633.86812pt>
 File: ./images//proxmox 1.png Graphic file (type png)
 <use ./images//proxmox 1.png>
 Package pdftex.def Info: ./images//proxmox 1.png  used on input line 78.
 (pdftex.def)             Requested size: 241.49895pt x 198.1897pt.
  [4 <./images//proxmox 1.png>]
-<./images//proxmox 2.png, id=82, 772.38562pt x 633.86812pt>
+<./images//proxmox 2.png, id=86, 772.38562pt x 633.86812pt>
 File: ./images//proxmox 2.png Graphic file (type png)
 <use ./images//proxmox 2.png>
 Package pdftex.def Info: ./images//proxmox 2.png  used on input line 85.
 (pdftex.def)             Requested size: 241.49895pt x 198.1897pt.
-<./images//proxmox 3.png, id=83, 772.38562pt x 633.86812pt>
+<./images//proxmox 3.png, id=87, 772.38562pt x 633.86812pt>
 File: ./images//proxmox 3.png Graphic file (type png)
 <use ./images//proxmox 3.png>
 Package pdftex.def Info: ./images//proxmox 3.png  used on input line 91.
 (pdftex.def)             Requested size: 241.49895pt x 198.1897pt.
  [5 <./images//proxmox 2.png> <./images//proxmox 3.png>]
-<./images//proxmox 4.png, id=94, 772.38562pt x 633.86812pt>
+<./images//proxmox 4.png, id=98, 772.38562pt x 633.86812pt>
 File: ./images//proxmox 4.png Graphic file (type png)
 <use ./images//proxmox 4.png>
 Package pdftex.def Info: ./images//proxmox 4.png  used on input line 98.
 (pdftex.def)             Requested size: 241.49895pt x 198.1897pt.
-<./images//proxmox 5.png, id=95, 772.38562pt x 633.86812pt>
+<./images//proxmox 5.png, id=99, 772.38562pt x 633.86812pt>
 File: ./images//proxmox 5.png Graphic file (type png)
 <use ./images//proxmox 5.png>
 Package pdftex.def Info: ./images//proxmox 5.png  used on input line 104.
 (pdftex.def)             Requested size: 241.49895pt x 198.1897pt.
  [6 <./images//proxmox 4.png> <./images//proxmox 5.png>]
-<./images//proxmox 6.png, id=107, 772.38562pt x 633.86812pt>
+<./images//proxmox 6.png, id=111, 772.38562pt x 633.86812pt>
 File: ./images//proxmox 6.png Graphic file (type png)
 <use ./images//proxmox 6.png>
 Package pdftex.def Info: ./images//proxmox 6.png  used on input line 111.
 (pdftex.def)             Requested size: 241.49895pt x 198.1897pt.
-<./images//proxmox 7.png, id=108, 772.38562pt x 633.86812pt>
+<./images//proxmox 7.png, id=112, 772.38562pt x 633.86812pt>
 File: ./images//proxmox 7.png Graphic file (type png)
 <use ./images//proxmox 7.png>
 Package pdftex.def Info: ./images//proxmox 7.png  used on input line 117.
 (pdftex.def)             Requested size: 241.49895pt x 198.1897pt.
  [7 <./images//proxmox 6.png> <./images//proxmox 7.png>]
-<./images//proxmox 8.png, id=119, 772.38562pt x 633.86812pt>
+<./images//proxmox 8.png, id=123, 772.38562pt x 633.86812pt>
 File: ./images//proxmox 8.png Graphic file (type png)
 <use ./images//proxmox 8.png>
 Package pdftex.def Info: ./images//proxmox 8.png  used on input line 124.
 (pdftex.def)             Requested size: 241.49895pt x 198.1897pt.
-<./images//proxmox 9.png, id=120, 603.75563pt x 507.39563pt>
+<./images//proxmox 9.png, id=124, 603.75563pt x 507.39563pt>
 File: ./images//proxmox 9.png Graphic file (type png)
 <use ./images//proxmox 9.png>
 Package pdftex.def Info: ./images//proxmox 9.png  used on input line 130.
 (pdftex.def)             Requested size: 241.49895pt x 202.95465pt.
  [8 <./images//proxmox 8.png> <./images//proxmox 9.png>]
-<./images//cmd.png, id=131, 737.00343pt x 295.1025pt>
+<./images//cmd.png, id=135, 737.00343pt x 295.1025pt>
 File: ./images//cmd.png Graphic file (type png)
 <use ./images//cmd.png>
 Package pdftex.def Info: ./images//cmd.png  used on input line 142.
 (pdftex.def)             Requested size: 241.49895pt x 96.69518pt.
-<./images//url proxmox.png, id=133, 286.06876pt x 106.14656pt>
+<./images//url proxmox.png, id=137, 286.06876pt x 106.14656pt>
 File: ./images//url proxmox.png Graphic file (type png)
 <use ./images//url proxmox.png>
 Package pdftex.def Info: ./images//url proxmox.png  used on input line 150.
 (pdftex.def)             Requested size: 241.49895pt x 89.60953pt.
  [9 <./images//cmd.png> <./images//url proxmox.png>]
-<./images//login proxmox 1.png, id=143, 1927.2pt x 1048.66782pt>
+<./images//login proxmox 1.png, id=147, 1927.2pt x 1048.66782pt>
 File: ./images//login proxmox 1.png Graphic file (type png)
 <use ./images//login proxmox 1.png>
 Package pdftex.def Info: ./images//login proxmox 1.png  used on input line 157.
 (pdftex.def)             Requested size: 241.49895pt x 131.40318pt.
-<./images//login proxmox 2.png, id=144, 1927.2pt x 1048.66782pt>
+<./images//login proxmox 2.png, id=148, 1927.2pt x 1048.66782pt>
 File: ./images//login proxmox 2.png Graphic file (type png)
 <use ./images//login proxmox 2.png>
 Package pdftex.def Info: ./images//login proxmox 2.png  used on input line 163.
 (pdftex.def)             Requested size: 241.49895pt x 131.40318pt.
  [10 <./images//login proxmox 1.png> <./images//login proxmox 2.png>]
-<./images//datacenter.png, id=153, 1895.58188pt x 994.46532pt>
+<./images//datacenter.png, id=157, 1895.58188pt x 994.46532pt>
 File: ./images//datacenter.png Graphic file (type png)
 <use ./images//datacenter.png>
 Package pdftex.def Info: ./images//datacenter.png  used on input line 173.
 (pdftex.def)             Requested size: 241.49895pt x 126.69022pt.
-<./images//upload iso 1.png, id=154, 1927.2pt x 1048.66782pt>
+<./images//upload iso 1.png, id=158, 1927.2pt x 1048.66782pt>
 File: ./images//upload iso 1.png Graphic file (type png)
 <use ./images//upload iso 1.png>
 Package pdftex.def Info: ./images//upload iso 1.png  used on input line 179.
 (pdftex.def)             Requested size: 241.49895pt x 131.40318pt.
  [11 <./images//datacenter.png> <./images//upload iso 1.png>]
-<./images//upload iso 2.png, id=163, 1927.2pt x 1048.66782pt>
+<./images//upload iso 2.png, id=167, 1927.2pt x 1048.66782pt>
 File: ./images//upload iso 2.png Graphic file (type png)
 <use ./images//upload iso 2.png>
 Package pdftex.def Info: ./images//upload iso 2.png  used on input line 187.
 (pdftex.def)             Requested size: 241.49895pt x 131.40318pt.
-<./images//upload iso 3.png, id=164, 305.64188pt x 203.25937pt>
+<./images//upload iso 3.png, id=168, 305.64188pt x 203.25937pt>
 File: ./images//upload iso 3.png Graphic file (type png)
 <use ./images//upload iso 3.png>
 Package pdftex.def Info: ./images//upload iso 3.png  used on input line 194.
 (pdftex.def)             Requested size: 241.49895pt x 160.60104pt.
  [12 <./images//upload iso 2.png> <./images//upload iso 3.png>]
-<./images//upload iso 4.png, id=174, 601.4972pt x 380.17032pt>
+<./images//upload iso 4.png, id=178, 601.4972pt x 380.17032pt>
 File: ./images//upload iso 4.png Graphic file (type png)
 <use ./images//upload iso 4.png>
 Package pdftex.def Info: ./images//upload iso 4.png  used on input line 202.
 (pdftex.def)             Requested size: 241.49895pt x 152.63972pt.
- [13 <./images//upload iso 4.png>] (main.aux)
+ [13 <./images//upload iso 4.png>]
+<./images//create vm 1 a.png, id=185, 170.88844pt x 226.59656pt>
+File: ./images//create vm 1 a.png Graphic file (type png)
+<use ./images//create vm 1 a.png>
+Package pdftex.def Info: ./images//create vm 1 a.png  used on input line 212.
+(pdftex.def)             Requested size: 241.49895pt x 320.24802pt.
+<./images//create vm 1 b.png, id=186, 321.45094pt x 27.10126pt>
+File: ./images//create vm 1 b.png Graphic file (type png)
+<use ./images//create vm 1 b.png>
+Package pdftex.def Info: ./images//create vm 1 b.png  used on input line 218.
+(pdftex.def)             Requested size: 241.49895pt x 20.36102pt.
+ [14 <./images//create vm 1 a.png> <./images//create vm 1 b.png>] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 1BEC7812D753DFA79A0CAD776373B5F4;890.
+(rerunfilecheck)             Checksum: 57615B18465704D118CCBA23A92FA58C;1000.
  ) 
 Here is how much of TeX's memory you used:
- 8382 strings out of 478337
- 137558 string characters out of 2831439
- 426876 words of memory out of 3000000
- 26661 multiletter control sequences out of 15000+600000
+ 8405 strings out of 478337
+ 138129 string characters out of 2831439
+ 426877 words of memory out of 3000000
+ 26678 multiletter control sequences out of 15000+600000
  474281 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,7n,77p,306b,514s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/Command Center 2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Command Center 2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Command Center 2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Command Center 2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Command Center 2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Command Center 2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (14 pages, 2114509 bytes).
+Output written on main.pdf (15 pages, 2132631 bytes).
 PDF statistics:
- 221 PDF objects out of 1000 (max. 8388607)
- 54 named destinations out of 1000 (max. 500000)
- 172 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 236 PDF objects out of 1000 (max. 8388607)
+ 58 named destinations out of 1000 (max. 500000)
+ 190 words of extra memory for PDF output out of 10000 (max. 10000000)
 

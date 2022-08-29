@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1661499937 "d:/Thoriq/Dokumentasi/BukuPanduanServer-Proxmox/main.tex" "main.pdf" "main" 1661499941
+["pdflatex"] 1661735824 "d:/Thoriq/Dokumentasi/BukuPanduanServer-Proxmox/main.tex" "main.pdf" "main" 1661735828
   "C:/Users/Command" 1660786272 770 d21a0c83bcec4f74aea7c121a55c5b74 ""
   "C:/Users/Command Center 2/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1661306986 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Command Center 2/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1659944151 10335490 e5a474e95ca4467b9b5cb90fd2809ca5 ""
@@ -63,10 +63,12 @@
   "C:/Users/Command Center 2/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/Command Center 2/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/Command Center 2/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "d:/Thoriq/Dokumentasi/BukuPanduanServer-Proxmox/main.tex" 1661499936 7283 814d5e60a58a91326b8c51bed26b1cd5 ""
+  "d:/Thoriq/Dokumentasi/BukuPanduanServer-Proxmox/main.tex" 1661735819 7856 9bba1813aa4c57ad0ac2ac01ac8717ce ""
   "images//balena web.png" 1660182544 124730 76c735788fbbdcffc484171dcb5b79e2 ""
   "images//balena.png" 1660034864 16509 59cd0d56c3a3e1750e1b39d9cb78fd3c ""
   "images//cmd.png" 1661219548 17493 503e05cc3494663edc552a27b01b7fde ""
+  "images//create vm 1 a.png" 1661735577 15642 861e89e3d283edaecf2177f5f49253cc ""
+  "images//create vm 1 b.png" 1661735595 3213 225ca26a247abd416aaa456ba8b05fbd ""
   "images//datacenter.png" 1661390496 107617 352951fa70d6bfee0792173eeca51e2b ""
   "images//firewall.png" 1660182565 103786 7610980bb871f69ae1441a6f39d621a9 ""
   "images//login proxmox 1.png" 1661305580 69045 f7ca5c0ae7e88d865f3d208b67e426b8 ""
@@ -87,9 +89,9 @@
   "images//upload iso 3.png" 1661499489 9097 c0938385b1920a097807b59b487d78d8 ""
   "images//upload iso 4.png" 1661499504 14717 b30c7272d6f82bf92138b3519dccd014 ""
   "images//url proxmox.png" 1661306160 6701 835054f1e9b49dc624ccd27ec5066589 ""
-  "main.aux" 1661499941 4229 e67898b5d50c00bb99f99c88890c32bb "pdflatex"
-  "main.out" 1661499941 890 1bec7812d753dfa79a0cad776373b5f4 "pdflatex"
-  "main.tex" 1661499936 7283 814d5e60a58a91326b8c51bed26b1cd5 ""
+  "main.aux" 1661735828 4599 67177d848da21f7071d97f7c578a7085 "pdflatex"
+  "main.out" 1661735828 1000 57615b18465704d118ccba23a92fa58c "pdflatex"
+  "main.tex" 1661735819 7856 9bba1813aa4c57ad0ac2ac01ac8717ce ""
   (generated)
   "main.aux"
   "main.log"

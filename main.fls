@@ -580,6 +580,18 @@ INPUT .\images\\upload iso 4.png
 INPUT .\images\\upload iso 4.png
 INPUT .\images\\upload iso 4.png
 INPUT .\images\\upload iso 4.png
+INPUT .\images\\create vm 1 a.png
+INPUT images\\create vm 1 a.png
+INPUT .\images\\create vm 1 a.png
+INPUT .\images\\create vm 1 a.png
+INPUT .\images\\create vm 1 a.png
+INPUT .\images\\create vm 1 a.png
+INPUT .\images\\create vm 1 b.png
+INPUT images\\create vm 1 b.png
+INPUT .\images\\create vm 1 b.png
+INPUT .\images\\create vm 1 b.png
+INPUT .\images\\create vm 1 b.png
+INPUT .\images\\create vm 1 b.png
 INPUT main.aux
 INPUT .\main.out
 INPUT .\main.out
