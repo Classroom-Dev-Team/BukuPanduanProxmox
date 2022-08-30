@@ -592,6 +592,18 @@ INPUT .\images\\create vm 1 b.png
 INPUT .\images\\create vm 1 b.png
 INPUT .\images\\create vm 1 b.png
 INPUT .\images\\create vm 1 b.png
+INPUT .\images\\create vm 2 a.png
+INPUT images\\create vm 2 a.png
+INPUT .\images\\create vm 2 a.png
+INPUT .\images\\create vm 2 a.png
+INPUT .\images\\create vm 2 a.png
+INPUT .\images\\create vm 2 a.png
+INPUT .\images\\create vm 2 b.png
+INPUT images\\create vm 2 b.png
+INPUT .\images\\create vm 2 b.png
+INPUT .\images\\create vm 2 b.png
+INPUT .\images\\create vm 2 b.png
+INPUT .\images\\create vm 2 b.png
 INPUT main.aux
 INPUT .\main.out
 INPUT .\main.out

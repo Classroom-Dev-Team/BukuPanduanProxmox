@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.8)  29 AUG 2022 08:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.8)  30 AUG 2022 09:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -346,29 +346,40 @@ Package pdftex.def Info: ./images//upload iso 4.png  used on input line 202.
 <./images//create vm 1 a.png, id=185, 170.88844pt x 226.59656pt>
 File: ./images//create vm 1 a.png Graphic file (type png)
 <use ./images//create vm 1 a.png>
-Package pdftex.def Info: ./images//create vm 1 a.png  used on input line 212.
+Package pdftex.def Info: ./images//create vm 1 a.png  used on input line 213.
 (pdftex.def)             Requested size: 241.49895pt x 320.24802pt.
 <./images//create vm 1 b.png, id=186, 321.45094pt x 27.10126pt>
 File: ./images//create vm 1 b.png Graphic file (type png)
 <use ./images//create vm 1 b.png>
-Package pdftex.def Info: ./images//create vm 1 b.png  used on input line 218.
+Package pdftex.def Info: ./images//create vm 1 b.png  used on input line 219.
 (pdftex.def)             Requested size: 241.49895pt x 20.36102pt.
- [14 <./images//create vm 1 a.png> <./images//create vm 1 b.png>] (main.aux)
+ [14 <./images//create vm 1 a.png> <./images//create vm 1 b.png>]
+<./images//create vm 2 a.png, id=196, 542.77782pt x 386.19281pt>
+File: ./images//create vm 2 a.png Graphic file (type png)
+<use ./images//create vm 2 a.png>
+Package pdftex.def Info: ./images//create vm 2 a.png  used on input line 226.
+(pdftex.def)             Requested size: 241.49895pt x 171.82874pt.
+<./images//create vm 2 b.png, id=197, 542.77782pt x 379.4175pt>
+File: ./images//create vm 2 b.png Graphic file (type png)
+<use ./images//create vm 2 b.png>
+Package pdftex.def Info: ./images//create vm 2 b.png  used on input line 231.
+(pdftex.def)             Requested size: 241.49895pt x 168.8142pt.
+ [15 <./images//create vm 2 a.png> <./images//create vm 2 b.png>] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 57615B18465704D118CCBA23A92FA58C;1000.
  ) 
 Here is how much of TeX's memory you used:
- 8405 strings out of 478337
- 138129 string characters out of 2831439
+ 8428 strings out of 478337
+ 138684 string characters out of 2831439
  426877 words of memory out of 3000000
- 26678 multiletter control sequences out of 15000+600000
+ 26694 multiletter control sequences out of 15000+600000
  474281 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,7n,77p,306b,514s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,7n,77p,306b,516s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/Command Center 2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Command Center 2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Command Center 2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Command Center 2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Command Center 2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Command Center 2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (15 pages, 2132631 bytes).
+Output written on main.pdf (16 pages, 2153729 bytes).
 PDF statistics:
- 236 PDF objects out of 1000 (max. 8388607)
- 58 named destinations out of 1000 (max. 500000)
- 190 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 249 PDF objects out of 1000 (max. 8388607)
+ 63 named destinations out of 1000 (max. 500000)
+ 200 words of extra memory for PDF output out of 10000 (max. 10000000)
 
