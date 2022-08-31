@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.8)  30 AUG 2022 09:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.8)  31 AUG 2022 15:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -364,22 +364,42 @@ File: ./images//create vm 2 b.png Graphic file (type png)
 <use ./images//create vm 2 b.png>
 Package pdftex.def Info: ./images//create vm 2 b.png  used on input line 231.
 (pdftex.def)             Requested size: 241.49895pt x 168.8142pt.
- [15 <./images//create vm 2 a.png> <./images//create vm 2 b.png>] (main.aux)
+ [15 <./images//create vm 2 a.png> <./images//create vm 2 b.png>]
+<./images//create vm 3 a.png, id=207, 542.025pt x 386.94562pt>
+File: ./images//create vm 3 a.png Graphic file (type png)
+<use ./images//create vm 3 a.png>
+Package pdftex.def Info: ./images//create vm 3 a.png  used on input line 238.
+(pdftex.def)             Requested size: 241.49895pt x 172.40576pt.
+<./images//create vm 3 b.png, id=208, 539.76656pt x 383.93437pt>
+File: ./images//create vm 3 b.png Graphic file (type png)
+<use ./images//create vm 3 b.png>
+Package pdftex.def Info: ./images//create vm 3 b.png  used on input line 243.
+(pdftex.def)             Requested size: 241.49895pt x 171.7788pt.
+<./images//create vm 3 c.png, id=209, 542.025pt x 383.18156pt>
+File: ./images//create vm 3 c.png Graphic file (type png)
+<use ./images//create vm 3 c.png>
+Package pdftex.def Info: ./images//create vm 3 c.png  used on input line 248.
+(pdftex.def)             Requested size: 241.49895pt x 170.72867pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[16 <./images//create vm 3 a.png> <./images//create vm 3 b.png>] [17 <./images//create vm 3 c.png>] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 57615B18465704D118CCBA23A92FA58C;1000.
  ) 
 Here is how much of TeX's memory you used:
- 8428 strings out of 478337
- 138684 string characters out of 2831439
+ 8461 strings out of 478337
+ 139506 string characters out of 2831439
  426877 words of memory out of 3000000
- 26694 multiletter control sequences out of 15000+600000
+ 26718 multiletter control sequences out of 15000+600000
  474281 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,7n,77p,306b,516s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/Command Center 2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Command Center 2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Command Center 2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Command Center 2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Command Center 2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Command Center 2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (16 pages, 2153729 bytes).
+Output written on main.pdf (18 pages, 2200296 bytes).
 PDF statistics:
- 249 PDF objects out of 1000 (max. 8388607)
- 63 named destinations out of 1000 (max. 500000)
- 200 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 268 PDF objects out of 1000 (max. 8388607)
+ 69 named destinations out of 1000 (max. 500000)
+ 215 words of extra memory for PDF output out of 10000 (max. 10000000)
 
